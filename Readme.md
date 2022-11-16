@@ -1,4 +1,4 @@
-# ComboBox Extension for MVC - How to Implement Cascading Combo Boxes
+# ComboBox for ASP.NET MVC - How to Implement Cascading Combo Boxes
 
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e2844/)**
