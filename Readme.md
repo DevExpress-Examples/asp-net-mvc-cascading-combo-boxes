@@ -5,9 +5,6 @@
 <!-- default badges end -->
 # ComboBox for ASP.NET MVC - How to Implement Cascading Combo Boxes
 
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128549360/)**
-<!-- run online end -->
 
 This example demonstrates how to use the MVC ComboBox extension to implement cascading combo boxes.
 
