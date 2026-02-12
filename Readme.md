@@ -98,7 +98,7 @@ public ActionResult CityPartial() {
 
 - [GridView - How to implement cascaded combo boxes in the EditForm](https://github.com/DevExpress-Examples/gridview-how-to-implement-cascaded-combo-boxes-in-the-editform-e4425)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-cascading-combo-boxes&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-cascading-combo-boxes&~~~was_helpful=no)
 
